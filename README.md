@@ -68,7 +68,7 @@ Before running this application, ensure you have the following installed:
       
 ## Live Site
 
-- Check out the live site here.
+- Check out the live site here [https://keeper-web-app-q65d.onrender.com]
 
 ## Backend API Routes
 
